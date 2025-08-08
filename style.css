@@ -1,0 +1,14 @@
+.text-banner{
+    color: red
+}
+
+
+body{
+    background-color: black;
+}
+
+.cria{
+    background-color: rgb(201, 18, 115);
+    width: 100px;
+    height: 100px;
+}
