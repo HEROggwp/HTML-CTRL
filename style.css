@@ -1,14 +1,32 @@
-.text-banner{
-    color: red
+header{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
-
-body{
-    background-color: black;
-}
-
-.cria{
-    background-color: rgb(197, 3, 3);
-    width: 100px;
+.manoel{
+    border-radius: 20px;
+    border: solid black 3px;
+     align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: blueviolet;
+    width: 750px;
     height: 100px;
+}
+nav{
+    
+}
+.vasco{
+    color: rgb(0, 0, 0);
+    
+}
+body{
+    background-color: rgb(221, 89, 182);
+}
+
+.inferuim{
+    
 }
